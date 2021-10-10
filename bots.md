@@ -11,7 +11,6 @@
 ---
 
 ##### Музыка и радио
-* [@mcduckmusicbot](https://t.me/mcduckmusicbot) — McDuck MusicBot. Много хорошей музыки.
 * [@RadioBot](https://t.me/radiobot) — Бот в котором можно переслушать эфиры 40+ популярных российских
 радиостанций.
 * [@radiotgbot](https://t.me/radiotgbot) — Бот - Лучшее радио!
@@ -132,6 +131,8 @@
 
 <details>
 <summary>Похоже нерабочие</summary>
+
+  * [@mcduckmusicbot](https://t.me/mcduckmusicbot) — McDuck MusicBot. Много хорошей музыки.
 
   * [@spoibot](https://t.me/spoibot) — Инлайн бот для прятанья спойлер текстов за кнопку (удобно в крупных чатах)
 
